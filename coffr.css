@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding:0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.jk{
+    width: 100%;
+    height:100vh;
+    background-image:url(https://images.inc.com/uploaded_files/image/1920x1080/getty_500740897_200013331653767347294_333325.jpg);
+    background-repeat: no-repeat;
+    filter: blur(0px);
+    position: relative;
+    background-size: cover;
+    background-position: center;
+}
+
+.kj ul li{
+list-style:none;
+display: inline-block;
+margin:0;
+min-width: 10%;
+text-decoration: none;
+color:white;
+font-weight: 700;
+}
+.kj {
+    background-image: linear-gradient(to right, #6f2121, #922324, #b62226, #da2125, #ff1e23);background-image: linear-gradient(to right, #6f2121, #922324, #b62226, #da2125, #ff1e23);
+    color:black;
+    height:40px;
+    width: 100%;
+    position: absolute;
+    
+}
+a{
+    text-decoration: none;
+    color:white;
+    font-weight: 700; 
+}
+h1{
+    color:rgb(255, 165, 54);
+    font-weight: 1000;
+    border: 10px;
+}
+.op{
+    padding: 0px;
+    position: absolute;
+    top: 0px;
+    bottom:40px;
+    height: 90px;
+}
+.content{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    left: 4rem;
+    top: 2rem;
+    width: 375px;
+    height: 400px;
+    margin-top: 100px;
+    border: 2px solid#f5efef;
+    margin-left: 100px;
+    background-color: rgba(69, 69, 69, 0.8);
+    padding: 0 1rem;
+}
+.content ol li{
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    margin-left: 140px;
+    font-weight: bolder;
+    
+}
+.button {
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: brown;
+    width: 150px;
+    height: 40px;
+    margin-top: 590px;
+    border: 5px solid brown;
+    margin-left: 500px;
+    background-color: rgba(176, 26, 26, 0.8);
+    padding: 0 1rem;
+
+}
+.button:hover{
+    background-color: rgba(175, 99, 22, 0.871);
+}
+.americano{
+    height: 400px;
+    width: 40%;
+    border-radius: 200px;
+    position: relative;
+    
+}
+.americano:hover{
+    background-color:brown;
+}
+.pro{
+    background-image: linear-gradient(to right, #6f2121, #922324, #b62226, #da2125, #ff1e23);
+}
+h3{
+    height: 60px;
+    font-weight: 200%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    color: white;
+}
+.pros{
+    font-size: xx-large;
+    color: white;
+    font-weight: bolder;
+}
+.lungo{
+    height: auto;
+    width: 40%;
+    border-radius: 200px;
+    position: relative;
+    margin-bottom:20px;
+    margin-left: 900px;
+    clear: right;
+}
+.hj{
+    position: static;
+    margin-left: 720px;
+    font-size: larger;
+
+}
+.jh{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: large;
+    position: absolute;
+    top: 1700px;
+}
+.kj ul li a:hover{
+    color: rgb(39, 92, 172);
+}
+.try:hover{
+    color: rgb(125, 43, 43);
+}
+.doppio{
+    height: 300px;
+    width: 40%;
+    border-radius: 200px;
+    position: relative;
+}
+.pro{
+    height: auto;
+    width: auto;
+}
+.jh{
+    position: absolute;
+    top:1700px;
+}
+.gh{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: large;
+    position: absolute;
+    top: 1600px;
+}
+.vc{
+    margin-left: 700px;
+    margin-top: 900px;
+    font-size: large;
+    position: absolute;
+    top:100;
+}
+.hj{
+    margin-left: 700px;
+    margin-top: 800px;
+    font-size: large;
+    position: absolute;
+    top:100px;
+}
+#h3Lungo{
+    margin-top: 150px;
+}
